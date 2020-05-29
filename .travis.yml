@@ -21,7 +21,7 @@ deploy:
   skip_cleanup: true
   provider: heroku
   api-key: 
-    secure: travis encrypt d27f72ea-e503-4f0b-9ed2-17485fae1a3c --add deploy.api_key --pro -r  jpbp/DevOpsLab-HelloWorld
+    secure: travis encrypt d27f72ea-e503-4f0b-9ed2-17485fae1a3c --add deploy.api_key --org -r  jpbp/DevOpsLab-HelloWorld
 
   app: jpbpdevopspython
   on:
