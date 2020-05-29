@@ -22,5 +22,3 @@ deploy:
   api-key: 
     secure: d27f72ea-e503-4f0b-9ed2-17485fae1a3c
   app: jpbpdevopspython
-  on:
-    repo: jpbp/First-Project-DevopsPython
