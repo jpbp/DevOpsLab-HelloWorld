@@ -23,5 +23,5 @@ deploy:
     secure: $KEY
   app: jpbpdevopspython
   on:
-    repo: jpbp/ jpbp / DevOpsLab-HelloWorld
+    repo: jpbp/DevOpsLab-HelloWorld
 
