@@ -20,6 +20,6 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: d27f72ea-e503-4f0b-9ed2-17485fae1a3c
+    secure: d27f72ea-e503-4f0b-9ed2-17485fae1a3c --add deploy.api_key --pro
   app: jpbpdevopspython
 
